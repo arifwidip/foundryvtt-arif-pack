@@ -1,0 +1,5 @@
+2025/09/23-17:05:32.744928 7b76fa0006c0 Recovering log #4
+2025/09/23-17:05:32.748263 7b76fa0006c0 Delete type=0 #4
+2025/09/23-17:05:32.748437 7b76fa0006c0 Delete type=3 #2
+2025/09/23-17:18:39.065576 7b76f70006c0 Manual compaction at level-0 from '!folders!0UUcsAbA27A5XJPL' @ 72057594037927935 : 1 .. '!items.effects!zbYW5ZFH0SG9sNka.blindingSmite000' @ 0 : 0; will stop at (end)
+2025/09/23-17:18:39.068655 7b76f70006c0 Manual compaction at level-1 from '!folders!0UUcsAbA27A5XJPL' @ 72057594037927935 : 1 .. '!items.effects!zbYW5ZFH0SG9sNka.blindingSmite000' @ 0 : 0; will stop at (end)
