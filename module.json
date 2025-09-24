@@ -1,11 +1,20 @@
 {
   "id": "arif-pack",
   "title": "Arif Pack",
-  "version": "1.0.0",
+  "description": "Arif personal pack",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "authors": [
+    {
+      "name": "Arif Widipratomo",
+      "url": "https://github.com/arifwidip/foundryvtt-arif-pack",
+      "email": "arif.widip@gmail.com",
+      "flags": {}
+    }
+  ],
   "packs": [
     {
       "name": "macros",
@@ -89,11 +98,11 @@
       "label": "Origins",
       "path": "packs/origins",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "packFolders": [
@@ -112,5 +121,8 @@
       ],
       "folders": []
     }
-  ]
+  ],
+  "url": "https://github.com/arifwidip/foundryvtt-arif-pack",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#"
 }
